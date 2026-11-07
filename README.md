@@ -119,12 +119,12 @@ The following table summarizes the responsibilities and contributions of each te
 
 | Team Member | Student ID | Contributions |
 |---|---|---|
-| Member 1: [Name] | [ID] | [Describe actual contributions] |
-| Member 2: [Name] | [ID] | [Describe actual contributions] |
-| Member 3: [Name] | [ID] | [Describe actual contributions] |
-| Member 4: [Name] | [ID] | [Describe actual contributions] |
-| Member 5 (if applicable) | [ID] | [Describe actual contributions] |
-| Member 6 (if applicable) | [ID] | [Describe actual contributions] |
+|Meral Safwan Fituri | 16007298 | Defined the research question and identified the project objectives.|
+|Lojine Eltoni | 16005928|Analyzed housing complaint patterns across NYC boroughs.] |
+| Shaza Mohamed| 16005540 | Analyzed serious transportation injury patterns. |
+| Mariam Elgameel| 16001645 | Compared housing complaints and transportation injuries. |
+| Aysel Allam| 16005934 |Helped select suitable charts and visual representations. |
+
 
 ## 10. Limitations
 
